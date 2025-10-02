@@ -1,3 +1,3 @@
-# editlens
+# EditLens
 
 Coming soon!
